@@ -1,0 +1,4 @@
+node_modules
+.env
+.clj-kondo/.cache
+.lsp/.cache
