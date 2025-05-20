@@ -127,7 +127,7 @@ JWT_SECRET=yourSecretKey
 
 ## 🧑‍💻 About Me
 
-Made with ❤️ by **[Chafid](https://github.com/Chafid)**  
+Made by **[Chafid](https://github.com/Chafid)**  
 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/chafid-ahmad-b1936450/)  
 🌍 Based in Indonesia – Open to remote backend opportunities!
 
